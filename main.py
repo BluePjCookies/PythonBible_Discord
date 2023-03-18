@@ -1,11 +1,9 @@
 import pythonbible as bible
 
-#MTA2MjY5MTU1OTkyMjk5OTM2Ng.GsZygD.si81qz8OybNrq82LF6_UQm8Jdqls0ao_l70x_A
 import discord
 from discord.ext import commands
 
-TOKEN = 'MTA4NjQ4NDgzNjc5MDg0NTQ2Mg.GUUUpp.qgOvCJEigVXxiIkN3RaPW_jsGh2CdADffzW0uc'
-
+TOKEN = "TOKEN"
 intents = discord.Intents.default()
 intents.message_content = True
 
